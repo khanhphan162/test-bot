@@ -1,0 +1,6 @@
+beautifulsoup4==4.13.4
+langchain==0.3.27
+markdownify==1.1.0
+openai==1.98.0
+python-dotenv==1.1.1
+Requests==2.32.4
